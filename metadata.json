@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Refiner",
+  "description": "An intelligent tool that helps you enhance your AI prompts. Input your initial idea, and our Gemini-powered assistant will refine it into a clear, concise, and effective prompt for better AI-generated results.",
+  "requestFramePermissions": []
+}
